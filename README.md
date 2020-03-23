@@ -1,15 +1,14 @@
 # ngx-mat-codemirror
 
-[![Build Status](https://travis-ci.org/smnbbrv/ngx-mat-codemirror.svg?branch=master)](https://travis-ci.org/smnbbrv/ngx-mat-codemirror)
 
 A code editor input for [Angular Material 8+](https://material.angular.io/) based on [codemirror](https://codemirror.net).
 
-[Demo here](https://smnbbrv.github.io/ngx-mat-codemirror/).
+This is based on @smnbbrv work here: [ngx-mat-codemirror](https://github.com/smnbbrv/ngx-mat-codemirror) All the credit should go to him :)
 
 ## Installation
 
 ```sh
-npm i -S ngx-mat-codemirror codemirror
+npm i -S ngx8-mat-codemirror codemirror
 ```
 
 and typings for codemirror:
